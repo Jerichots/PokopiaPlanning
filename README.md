@@ -67,3 +67,11 @@ Scraping utilities for pulling data from the Pokopia wiki.
 - **House Rules** — Max 10x10 blocks, 3+ unique furniture, up to 4 Pokemon per house
 - **Map Height** — 127 blocks vertical across all areas
 - **Habitat Types** — Bright, Cool, Dark, Dry, Humid, Warm — never cross habitat lines in housing
+
+---
+
+## Credits
+
+Huge thanks to [Serebii](https://www.serebii.net/) for being such an incredible resource. All Pokemon data in this project was sourced from there.
+
+The housing group assignments and planning structure are my own original work.
