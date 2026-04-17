@@ -142,6 +142,20 @@
 - [Wooden Stuff](../reference/Items%20By%20Favorite/Wooden%20Stuff.md): Plain stand, Wooden crate
 - [Blocky Stuff](../reference/Items%20By%20Favorite/Blocky%20Stuff.md): Polygonal Shelf
 
+---
+
+**House 101: Something** — Magnemite (Pre-Fab)
+- Specialty: Generate(1)
+
+| # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
+|---|------|-------|-------|-------|-------|-------|
+| #027 | Magnemite | Electronics | Metal stuff | Shiny stuff | Hard stuff | Group activities |
+
+**Suggested Items:**
+- Electronics
+-
+-
+
 ### Dark Habitat
 
 **House 7: The Dragon Den** — Axew, Fraxure, Haxorus
@@ -251,6 +265,19 @@
 - [Nice Breezes](../reference/Items%20By%20Favorite/Nice%20Breezes.md): Pinwheels
 - [Luxury](../reference/Items%20By%20Favorite/Luxury.md): Luxury lamp
 - [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Crystal fragment
+
+---
+
+**House 102: The Stone Den** — Onix 
+- Specialty: Crush(1), Bulldoze(1)
+
+| # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
+|---|------|-------|-------|-------|-------|-------|-------|
+| #030 | Onix | Stone stuff | Lots of dirt | Blocky stuff | Slender objects | Exercise | Dry flavors |
+
+**Suggested Items:**
+- Stone Stuff
+- Lots of dirt
 
 ### Humid Habitat
 
@@ -382,7 +409,6 @@
 | #008 | Wartortle | Lots of water | Cleanliness | Healing | Exercise | Hard stuff | Spicy flavors |
 | #009 | Blastoise | Lots of water | Cleanliness | Healing | Exercise | Luxury | Sour Flavors |
 
-
 **Suggested Items:**
 - [Lots of Water](../reference/Items%20By%20Favorite/Lots%20of%20Water.md): Water basin
 - [Cleanliness](../reference/Items%20By%20Favorite/Cleanliness.md): Shower
@@ -391,6 +417,20 @@
 - [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Picnic basket
 - [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
 - [Hard Stuff](../reference/Items%20By%20Favorite/Hard%20Stuff.md): Strength rock
+
+---
+
+***House 103: The Professor's Lab** — Tangrowth
+-Specialty: Appraise(1)
+
+| # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
+|---|------|-------|-------|-------|-------|-------|-------|
+| #041 | Tangrowth | Lots of nature | Lots of water | Gatherings | Pretty flowers | Watching stuff | Bitter flavors |
+
+**Suggested Items:**
+- his wheelbarrow
+-
+-
 
 ### Warm Habitat
 
@@ -439,3 +479,17 @@
 - [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Painting (portrait)
 - [Containers](../reference/Items%20By%20Favorite/Containers.md): Wall storage box
 - [Blocky Stuff](../reference/Items%20By%20Favorite/Blocky%20Stuff.md): Wooden crate
+
+---
+
+**House 104: The Warm Winds** — Drifloon (Pre-Fab)
+- Specialty: Dream Island(1)
+
+| # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
+|---|------|-------|-------|-------|-------|-------|-------|
+| #061 | Drifloon | Spooky stuff | Strange stuff | Nice breezes | Cute stuff | Round stuff | Bitter flavors |
+
+**Suggested Items:**
+- Spooky Stuff
+-
+-
