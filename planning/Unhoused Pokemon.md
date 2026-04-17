@@ -5,20 +5,18 @@
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
 |---|------|-------|-------|-------|-------|-------|
 | #067 | Conkeldurr | Exercise | Construction | Stone stuff | Slender objects | Group activities |
-| #027 | Magnemite | Electronics | Metal stuff | Shiny stuff | Hard stuff | Group activities |
 | Pichu |
 
 ### Dry Habitat
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
 |---|------|-------|-------|-------|-------|-------|
-| #030 | Onix | Stone stuff | Lots of dirt | Blocky stuff | Slender objects | Exercise | Dry flavors |
 
-### Hunid Habitat
+
+### Humid Habitat
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
 |---|------|-------|-------|-------|-------|-------|
-| #041 | Tangrowth | Lots of nature | Lots of water | Gatherings | Pretty flowers | Watching stuff | Bitter flavors |
 | #013 | Oddish | Lots of nature | Lots of dirt | Soft stuff | Pretty flowers | Lots of water | Bitter flavors |
 | #015 | Vileplume | Lots of nature | Lots of dirt | Soft stuff | Pretty flowers | Colorful stuff | Bitter flavors |
 | #022 | Weepinbell | Lots of nature | Wooden stuff | Lots of dirt | Colorful stuff | Pretty flowers | Bitter flavors |
@@ -33,4 +31,4 @@
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
 |---|------|-------|-------|-------|-------|-------|
 | #162 | Magby | Lots of fire | Stone stuff | Watching stuff | Cute stuff | Wobbly stuff | Sweet Flavors |
-| #061 | Drifloon | Spooky stuff | Strange stuff | Nice breezes | Cute stuff | Round stuff | Bitter flavors |
+
