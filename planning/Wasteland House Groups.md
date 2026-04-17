@@ -3,6 +3,8 @@
 ### Bright Habitat
 
 **House 1: The Fighters** — Hitmonchan, Hitmonlee, Hitmontop, Tyrogue
+- Specialty: Trade(4)
+- Maybe pre-fab, depends on how often they come out to trade
 - Shared: Exercise, Group activities, Fabric, Stone stuff, Round stuff (5/5)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
@@ -21,7 +23,8 @@
 
 ---
 
-**House 2: The Nature Warriors** — Heracross, Pinsir, Scyther, Vikavolt
+**House 2: The Nature Warriors** — Heracross, Pinsir, Scyther, Vikavolt (Pre-Fab)
+- Specialty: Chop(4), Build(2), Generate(1)
 - All share: Lots of nature, Exercise (2/5)
 - 3/4 share: Wooden stuff (H+P+S)
 
@@ -45,7 +48,9 @@
 
 ---
 
-**House 3: The Hive** — Combee, Vespiquen, Venomoth, Venonat
+**House 3: The Hive** — Combee, Vespiquen, Venomoth, Venonat (Pre-Fab)
+**Built, un-decorated**
+- Specialty: Search(3), Litter(1/Honey), Honey(1)
 - All share: Lots of nature, Wooden stuff (2/5)
 - 3/4 share: Nice breezes (Combee+Vespiquen+Venomoth)
 
@@ -70,6 +75,8 @@
 ---
 
 **House 4: The Garden** — Bulbasaur, Ivysaur, Venusaur, Bellossom
+**Built and decorated, missing Bellossom**
+- Specialty: Grow(4), Litter(1/Leafs) Hype(1)
 - All share: Lots of nature, Cute stuff (2/5)
 - 3/4 share: Soft stuff (Bulb+Ivy+Venus), Pretty flowers (Ivy+Venus+Bell)
 
@@ -95,6 +102,8 @@
 ---
 
 **House 5: The Flock** — Pidgey, Pidgeotto, Pidgeot
+**Built and decorated, missing Pidgeot**
+- Specialty: Fly(3), Search(2), Chop(1)
 - All share: Soft stuff, Nice breezes, Lots of nature (3/5)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
@@ -115,17 +124,14 @@
 
 ---
 
-**House 6: The Workshop** — Gurdurr, Timburr, Conkeldurr, Magnemite
-- Gurdurr+Timburr+Conkeldurr share: Exercise, Construction, Slender objects (3/5)
-- Gurdurr+Conkeldurr share: Group activities (4/5)
-- Gurdurr+Magnemite share: Metal stuff, Group activities (2/5)
+**House 6: The Workshop** — Gurdurr, Timburr (Pre-Fab)
+- Specialty: Build(2)
+- Gurdurr+Timburr share: Exercise, Construction, Slender objects (3/5)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
 |---|------|-------|-------|-------|-------|-------|
 | #066 | Gurdurr | Exercise | Construction | Metal stuff | Slender objects | Group activities |
 | #065 | Timburr | Exercise | Construction | Wooden stuff | Slender objects | Blocky stuff |
-| #067 | Conkeldurr | Exercise | Construction | Stone stuff | Slender objects | Group activities |
-| #027 | Magnemite | Electronics | Metal stuff | Shiny stuff | Hard stuff | Group activities |
 
 **Suggested Items:**
 - [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
@@ -135,14 +141,11 @@
 - [Metal Stuff](../reference/Items%20By%20Favorite/Metal%20Stuff.md): Iron pipes, Metal drum
 - [Wooden Stuff](../reference/Items%20By%20Favorite/Wooden%20Stuff.md): Plain stand, Wooden crate
 - [Blocky Stuff](../reference/Items%20By%20Favorite/Blocky%20Stuff.md): Polygonal Shelf
-- [Stone Stuff](../reference/Items%20By%20Favorite/Stone%20Stuff.md): Strength rock
-- [Electronics](../reference/Items%20By%20Favorite/Electronics.md): Utility pole, Wall switch
-- [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Crystal fragment
-- [Hard Stuff](../reference/Items%20By%20Favorite/Hard%20Stuff.md): Iron stand
 
 ### Dark Habitat
 
 **House 7: The Dragon Den** — Axew, Fraxure, Haxorus
+- Specialty: Chop(3)
 - All share: Lots of fire, Luxury, Lots of dirt, Sharp stuff (4/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
@@ -161,7 +164,9 @@
 
 ---
 
-**House 8: The Night Watch** — Drilbur, Excadrill, Hoothoot, Noctowl
+**House 8: The Night Watch** — Drilbur, Excadrill, Hoothoot, Noctowl (Pre-Fab)
+**Built, undecorated**
+- Specialty: Trade(2), Fly(2), Search(2), Chop(1)
 - All share: Watching stuff (1/6)
 - Drilbur+Excadrill share: Lots of dirt, Sharp stuff, Sour Flavors (3)
 - Hoothoot+Noctowl share: Soft stuff, Nice breezes, Dry flavors (3)
@@ -190,7 +195,9 @@
 
 ---
 
-**House 9: The Fireflies** — Volbeat, Illumise
+**House 9: The Fireflies** — Volbeat, Illumise (Pre-Fab)
+**Built, undecorated**
+- Specialty: Hype(2)
 - All share: Lots of nature, Wooden stuff, Shiny stuff, Cute stuff, Group activities (5/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
@@ -207,15 +214,14 @@
 
 ### Dry Habitat
 
-**House 10: The Bone Crew** — Cubone, Marowak, Onix
-- All share: Lots of dirt, Exercise, Slender objects (3/6)
-- Cubone+Marowak also share: Construction (4/6)
+**House 10: The Bone Crew** — Cubone, Marowak (Pre-Fab)
+- Specialty: Build(2)
+- All share: Lots of dirt, Construction, Exercise, Slender objects (4/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #032 | Cubone | Lots of dirt | Construction | Exercise | Slender objects | Group activities | Bitter flavors |
 | #033 | Marowak | Lots of dirt | Construction | Exercise | Slender objects | Luxury | Dry flavors |
-| #030 | Onix | Stone stuff | Lots of dirt | Blocky stuff | Slender objects | Exercise | Dry flavors |
 
 **Suggested Items:**
 - [Lots of Dirt](../reference/Items%20By%20Favorite/Lots%20of%20Dirt.md): Sandbags
@@ -224,12 +230,11 @@
 - [Slender Objects](../reference/Items%20By%20Favorite/Slender%20Objects.md): Rope
 - [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Bonfire
 - [Luxury](../reference/Items%20By%20Favorite/Luxury.md): Luxury lamp
-- [Stone Stuff](../reference/Items%20By%20Favorite/Stone%20Stuff.md): Strength rock, Stone bench
-- [Blocky Stuff](../reference/Items%20By%20Favorite/Blocky%20Stuff.md): Worn wooden crate
 
 ---
 
-**House 11: The Cacti** — Cacnea, Cacturne
+**House 11: The Cacti** — Cacnea, Cacturne (Pre-Fab)
+- Specialty: Grow(2), Litter(1/Sticks)
 - All share: Lots of nature, Sharp stuff (2/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
@@ -250,6 +255,8 @@
 ### Humid Habitat
 
 **House 12: The Flower Patch** — Oddish, Vileplume, Weepinbell, Victreebel
+- Specialty: Grow(4), Litter(1/Leafs, 1/Vines), Chop(1)
+- Maybe Pre-Fab? Might split this up later, having grow spec outside is nice
 - All share: Lots of nature, Lots of dirt, Pretty flowers, Bitter flavors (4/6)
 - Weepinbell+Victreebel also share: Wooden stuff, Colorful stuff (6/6)
 
@@ -271,7 +278,7 @@
 
 ---
 
-**House 13: The Undergrowth** — Bellsprout, Paras, Parasect, Tangrowth
+**House 13: The Undergrowth** — Bellsprout, Paras, Parasect
 - All share: Lots of nature (1/6)
 - Paras+Parasect share: Wooden stuff, Watching stuff, Lots of dirt, Bitter flavors (5/6)
 - Bellsprout+Paras+Parasect share: Wooden stuff, Lots of dirt
@@ -281,7 +288,6 @@
 | #021 | Bellsprout | Lots of nature | Wooden stuff | Lots of dirt | Lots of water | Pretty flowers | Dry flavors |
 | #017 | Paras | Lots of nature | Wooden stuff | Watching stuff | Lots of dirt | Looks like food | Bitter flavors |
 | #018 | Parasect | Lots of nature | Wooden stuff | Watching stuff | Lots of dirt | Strange stuff | Bitter flavors |
-| #041 | Tangrowth | Lots of nature | Lots of water | Gatherings | Pretty flowers | Watching stuff | Bitter flavors |
 
 **Suggested Items:**
 - [Lots of Nature](../reference/Items%20By%20Favorite/Lots%20of%20Nature.md): Log table, Garden bench
@@ -297,6 +303,8 @@
 ---
 
 **House 14: The Tidal Pools** — Shellos, Shellos East Sea, Gastrodon, Gastrodon East Sea
+- Maybe pre-fab? 
+- Specialty: Water(4), Trade(2)
 - All share: Lots of water, Ocean vibes, Cleanliness, Containers (4/6)
 - Shellos+Shellos ES also share: Colorful stuff
 
@@ -318,15 +326,13 @@
 ---
 
 **House 15: The Goo Gang** — Goomy, Sliggoo, Goodra, Blastoise
-- All share: Lots of water, Cleanliness, Healing (3/6)
-- Goomy+Sliggoo+Goodra also share: Luxury (4/6)
+- All share: Lots of water, Luxury, Cleanliness, Healing (4/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #074 | Goomy | Lots of water | Luxury | Lots of nature | Cleanliness | Healing | Sweet Flavors |
 | #075 | Sliggoo | Lots of water | Luxury | Soft stuff | Cleanliness | Healing | Sweet Flavors |
 | #076 | Goodra | Lots of water | Luxury | Exercise | Cleanliness | Healing | Sour Flavors |
-| #009 | Blastoise | Lots of water | Cleanliness | Healing | Exercise | Luxury | Sour Flavors |
 
 **Suggested Items:**
 - [Lots of Water](../reference/Items%20By%20Favorite/Lots%20of%20Water.md): Water basin, Horsea fountain
@@ -340,6 +346,8 @@
 ---
 
 **House 16: The Zen Pond** — Slowpoke, Slowbro, Slowking, Magikarp
+**Technically built, rebuild somewhere else as resort pool vibes**
+- Specialty: Water(3), Yawn(1), Trade(1), Teleport(1), ???(1)
 - Slow trio share: Lots of water, Cleanliness, Strange stuff, Healing (4/6)
 - Slowbro+Slowking+Magikarp share: Group activities
 
@@ -363,15 +371,17 @@
 
 ---
 
-**House 17: The Oddballs** — Squirtle, Wartortle, Gulpin
-- Squirtle+Wartortle share: Lots of water, Cleanliness, Healing (3/6)
-- Gulpin is the wildcard — accommodate with Cute stuff + Looks like food items
+**House 17: The Beach Bums** — Squirtle, Wartortle, Blastoise
+- Specialty: Water(3), Trade(1)
+- All share: Lots of water, Cleanliness, Healing (3/6)
+- Wartortle+Blastoise share: Exercise (4/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #007 | Squirtle | Lots of water | Cleanliness | Healing | Cute stuff | Group Activities | Sweet Flavors |
 | #008 | Wartortle | Lots of water | Cleanliness | Healing | Exercise | Hard stuff | Spicy flavors |
-| #053 | Gulpin | Cute stuff | Looks like food | Round stuff | Containers | Colorful stuff | Spicy flavors |
+| #009 | Blastoise | Lots of water | Cleanliness | Healing | Exercise | Luxury | Sour Flavors |
+
 
 **Suggested Items:**
 - [Lots of Water](../reference/Items%20By%20Favorite/Lots%20of%20Water.md): Water basin
@@ -381,24 +391,19 @@
 - [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Picnic basket
 - [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
 - [Hard Stuff](../reference/Items%20By%20Favorite/Hard%20Stuff.md): Strength rock
-- [Looks Like Food](../reference/Items%20By%20Favorite/Looks%20Like%20Food.md): Berry basket, Berry table
-- [Round Stuff](../reference/Items%20By%20Favorite/Round%20Stuff.md): Berry clock
-- [Containers](../reference/Items%20By%20Favorite/Containers.md): Berry case
-- [Colorful Stuff](../reference/Items%20By%20Favorite/Colorful%20Stuff.md): Paint balloon (green)
 
 ### Warm Habitat
 
-**House 18: The Inferno** — Charizard, Charmander, Charmeleon, Magby
-- Char trio share: Lots of fire, Wooden stuff, Exercise, Spicy flavors (4/6)
+**House 18: The Inferno** — Charizard, Charmander, Charmeleon
+- Specialty: Burn(3), Fly(1)
+- All share: Lots of fire, Wooden stuff, Exercise, Spicy flavors (4/6)
 - Charmander+Charmeleon also share: Hard stuff (5/6)
-- Magby links via Lots of fire
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #006 | Charizard | Lots of fire | Nice breezes | Wooden stuff | Exercise | Luxury | Spicy flavors |
 | #004 | Charmander | Lots of fire | Wooden stuff | Hard stuff | Exercise | Group activities | Spicy flavors |
 | #005 | Charmeleon | Lots of fire | Wooden stuff | Hard stuff | Exercise | Rides | Spicy flavors |
-| #162 | Magby | Lots of fire | Stone stuff | Watching stuff | Cute stuff | Wobbly stuff | Sweet Flavors |
 
 **Suggested Items:**
 - [Lots of Fire](../reference/Items%20By%20Favorite/Lots%20of%20Fire.md): Bonfire, Firepit
@@ -416,14 +421,13 @@
 
 ---
 
-**House 19: The Haunted Lanterns** — Chandelure, Drifloon, Lampent, Litwick
-- All share: Spooky stuff, Strange stuff (2/6)
-- Chandelure+Lampent+Litwick also share: Lots of fire, Wobbly stuff (4/6)
+**House 19: The Haunted Lanterns** — Chandelure, Lampent, Litwick
+- Specialty: Burn(3)
+- All share: Spooky stuff, Strange stuff, Lots of fire, Wobbly stuff (4/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #070 | Chandelure | Spooky stuff | Strange stuff | Lots of fire | Wobbly stuff | Watching stuff | Dry flavors |
-| #061 | Drifloon | Spooky stuff | Strange stuff | Nice breezes | Cute stuff | Round stuff | Bitter flavors |
 | #069 | Lampent | Spooky stuff | Strange stuff | Lots of fire | Wobbly stuff | Containers | Bitter flavors |
 | #068 | Litwick | Spooky stuff | Strange stuff | Lots of fire | Wobbly stuff | Blocky stuff | Bitter flavors |
 
@@ -433,8 +437,5 @@
 - [Lots of Fire](../reference/Items%20By%20Favorite/Lots%20of%20Fire.md): Slender candle
 - [Wobbly Stuff](../reference/Items%20By%20Favorite/Wobbly%20Stuff.md): Wobbuffet Wobbler
 - [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Painting (portrait)
-- [Nice Breezes](../reference/Items%20By%20Favorite/Nice%20Breezes.md): Pinwheels
-- [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
-- [Round Stuff](../reference/Items%20By%20Favorite/Round%20Stuff.md): Crystal ball
 - [Containers](../reference/Items%20By%20Favorite/Containers.md): Wall storage box
 - [Blocky Stuff](../reference/Items%20By%20Favorite/Blocky%20Stuff.md): Wooden crate
