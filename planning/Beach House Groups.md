@@ -513,3 +513,18 @@
 - [Stone Stuff](../reference/Items%20By%20Favorite/Stone%20Stuff.md): Stone bench
 - [Pretty Flowers](../reference/Items%20By%20Favorite/Pretty%20Flowers.md): Beautiful flower
 - [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
+
+---
+
+**House 111: The Bird Box** — Farfetch'd
+- Area:
+- Specialty:
+
+| # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
+|---|------|-------|-------|-------|-------|-------|-------|
+| #090 | Farfetch'd | Soft stuff | Nice breezes | Wooden stuff | Slender objects | Exercise | Spicy flavors |
+
+**Suggested Items:**
+-
+-
+-
