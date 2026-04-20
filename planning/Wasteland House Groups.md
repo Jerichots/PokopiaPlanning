@@ -3,6 +3,7 @@
 ### Bright Habitat
 
 **House 1: The Fighters** — Hitmonchan, Hitmonlee, Hitmontop, Tyrogue
+- Area: Central division, against wall cliffs?
 - Specialty: Trade(4)
 - Maybe pre-fab, depends on how often they come out to trade
 - Shared: Exercise, Group activities, Fabric, Stone stuff, Round stuff (5/5)
@@ -24,6 +25,8 @@
 ---
 
 **House 2: The Nature Warriors** — Heracross, Pinsir, Scyther, Vikavolt (Pre-Fab)
+**Built, un-decorated**
+- Area: Upper Division, upper left
 - Specialty: Chop(4), Build(2), Generate(1)
 - All share: Lots of nature, Exercise (2/5)
 - 3/4 share: Wooden stuff (H+P+S)
@@ -50,6 +53,7 @@
 
 **House 3: The Hive** — Combee, Vespiquen, Venomoth, Venonat (Pre-Fab)
 **Built, un-decorated**
+- Area: Central Division, near cove
 - Specialty: Search(3), Litter(1/Honey), Honey(1)
 - All share: Lots of nature, Wooden stuff (2/5)
 - 3/4 share: Nice breezes (Combee+Vespiquen+Venomoth)
@@ -76,6 +80,7 @@
 
 **House 4: The Garden** — Bulbasaur, Ivysaur, Venusaur, Bellossom
 **Built and decorated, missing Bellossom**
+- Area: Eastern Division, upper cliffs
 - Specialty: Grow(4), Litter(1/Leafs) Hype(1)
 - All share: Lots of nature, Cute stuff (2/5)
 - 3/4 share: Soft stuff (Bulb+Ivy+Venus), Pretty flowers (Ivy+Venus+Bell)
@@ -103,6 +108,7 @@
 
 **House 5: The Flock** — Pidgey, Pidgeotto, Pidgeot
 **Built and decorated, missing Pidgeot**
+- Area: Eastern Division, upper cliffs
 - Specialty: Fly(3), Search(2), Chop(1)
 - All share: Soft stuff, Nice breezes, Lots of nature (3/5)
 
@@ -125,6 +131,7 @@
 ---
 
 **House 6: The Workshop** — Gurdurr, Timburr (Pre-Fab)
+- Area: Upper Division, lower right
 - Specialty: Build(2)
 - Gurdurr+Timburr share: Exercise, Construction, Slender objects (3/5)
 
@@ -145,6 +152,7 @@
 ---
 
 **House 101: Something** — Magnemite (Pre-Fab)
+- Area: Southern Division, near rocket site
 - Specialty: Generate(1)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
@@ -159,6 +167,7 @@
 ### Dark Habitat
 
 **House 7: The Dragon Den** — Axew, Fraxure, Haxorus
+- Area: ???
 - Specialty: Chop(3)
 - All share: Lots of fire, Luxury, Lots of dirt, Sharp stuff (4/6)
 
@@ -180,6 +189,7 @@
 
 **House 8: The Night Watch** — Drilbur, Excadrill, Hoothoot, Noctowl (Pre-Fab)
 **Built, undecorated**
+- Area: Eastern Division, lower cliffs near gate
 - Specialty: Trade(2), Fly(2), Search(2), Chop(1)
 - All share: Watching stuff (1/6)
 - Drilbur+Excadrill share: Lots of dirt, Sharp stuff, Sour Flavors (3)
@@ -211,6 +221,7 @@
 
 **House 9: The Fireflies** — Volbeat, Illumise (Pre-Fab)
 **Built, undecorated**
+- Area: Central Division, near western entrance
 - Specialty: Hype(2)
 - All share: Lots of nature, Wooden stuff, Shiny stuff, Cute stuff, Group activities (5/6)
 
@@ -229,6 +240,7 @@
 ### Dry Habitat
 
 **House 10: The Bone Crew** — Cubone, Marowak (Pre-Fab)
+- Area: Upper division, lower right
 - Specialty: Build(2)
 - All share: Lots of dirt, Construction, Exercise, Slender objects (4/6)
 
@@ -248,6 +260,8 @@
 ---
 
 **House 11: The Cacti** — Cacnea, Cacturne (Pre-Fab)
+**Built, undecorated**
+- Area: Upper Division, upper left
 - Specialty: Grow(2), Litter(1/Sticks)
 - All share: Lots of nature, Sharp stuff (2/6)
 
@@ -269,6 +283,7 @@
 ---
 
 **House 102: The Stone Den** — Onix 
+- Area: ??? cave by cove?? or Western Div near gate
 - Specialty: Crush(1), Bulldoze(1)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
@@ -282,6 +297,7 @@
 ### Humid Habitat
 
 **House 12: The Flower Patch** — Oddish, Vileplume, Weepinbell, Victreebel
+- Area: ???
 - Specialty: Grow(4), Litter(1/Leafs, 1/Vines), Chop(1)
 - Maybe Pre-Fab? Might split this up later, having grow spec outside is nice
 - All share: Lots of nature, Lots of dirt, Pretty flowers, Bitter flavors (4/6)
@@ -306,6 +322,7 @@
 ---
 
 **House 13: The Undergrowth** — Bellsprout, Paras, Parasect
+- Area: ???
 - All share: Lots of nature (1/6)
 - Paras+Parasect share: Wooden stuff, Watching stuff, Lots of dirt, Bitter flavors (5/6)
 - Bellsprout+Paras+Parasect share: Wooden stuff, Lots of dirt
@@ -330,6 +347,7 @@
 ---
 
 **House 14: The Tidal Pools** — Shellos, Shellos East Sea, Gastrodon, Gastrodon East Sea
+- Area: Western Division, near coast
 - Maybe pre-fab? 
 - Specialty: Water(4), Trade(2)
 - All share: Lots of water, Ocean vibes, Cleanliness, Containers (4/6)
@@ -352,7 +370,8 @@
 
 ---
 
-**House 15: The Goo Gang** — Goomy, Sliggoo, Goodra, Blastoise
+**House 15: The Goo Gang** — Goomy, Sliggoo, Goodra
+- Area: Western Division, cave system with water
 - All share: Lots of water, Luxury, Cleanliness, Healing (4/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
@@ -374,6 +393,7 @@
 
 **House 16: The Zen Pond** — Slowpoke, Slowbro, Slowking, Magikarp
 **Technically built, rebuild somewhere else as resort pool vibes**
+- Area: Southern Division, on coast
 - Specialty: Water(3), Yawn(1), Trade(1), Teleport(1), ???(1)
 - Slow trio share: Lots of water, Cleanliness, Strange stuff, Healing (4/6)
 - Slowbro+Slowking+Magikarp share: Group activities
@@ -399,6 +419,7 @@
 ---
 
 **House 17: The Beach Bums** — Squirtle, Wartortle, Blastoise
+- Area: Central Division, on cove
 - Specialty: Water(3), Trade(1)
 - All share: Lots of water, Cleanliness, Healing (3/6)
 - Wartortle+Blastoise share: Exercise (4/6)
@@ -421,6 +442,7 @@
 ---
 
 ***House 103: The Professor's Lab** — Tangrowth
+- Area: ???
 -Specialty: Appraise(1)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
@@ -435,6 +457,7 @@
 ### Warm Habitat
 
 **House 18: The Inferno** — Charizard, Charmander, Charmeleon
+- Area: ???
 - Specialty: Burn(3), Fly(1)
 - All share: Lots of fire, Wooden stuff, Exercise, Spicy flavors (4/6)
 - Charmander+Charmeleon also share: Hard stuff (5/6)
@@ -462,6 +485,7 @@
 ---
 
 **House 19: The Haunted Lanterns** — Chandelure, Lampent, Litwick
+- Area: Western Division, cave system
 - Specialty: Burn(3)
 - All share: Spooky stuff, Strange stuff, Lots of fire, Wobbly stuff (4/6)
 
@@ -483,6 +507,7 @@
 ---
 
 **House 104: The Warm Winds** — Drifloon (Pre-Fab)
+- Area: ???
 - Specialty: Dream Island(1)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
